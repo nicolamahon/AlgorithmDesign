@@ -1,5 +1,5 @@
 # AlgorithmDesign
-Designed of a hybrid searching algorithm and subsequent implementation in C
+Design of a hybrid searching algorithm and subsequent implementation in C
 
 DT265 is a postgraduate programme in the School of Computing, designed to provide an entry path for Bachelors Honours graduates in other numerate disciplines into graduate entry level careers in computing.
 
